@@ -1,2 +1,2 @@
 
-Proyecto utilizando Local Storage
+Proyecto realizado en capacitacion utilizando Local Storage.
